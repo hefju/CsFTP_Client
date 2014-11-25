@@ -1,0 +1,9 @@
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\bin\Debug\CsFTP_Client.exe.config
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\bin\Debug\CsFTP_Client.exe
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\bin\Debug\CsFTP_Client.pdb
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.csprojResolveAssemblyReference.cache
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.MainForm.resources
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.Properties.Resources.resources
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.csproj.GenerateResource.Cache
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.exe
+c:\users\rush\documents\visual studio 2013\Projects\CsFTP_Client\CsFTP_Client\obj\Debug\CsFTP_Client.pdb
